@@ -17,7 +17,7 @@ Alur Algoritma
 
 ![latihan2 labpy03](https://user-images.githubusercontent.com/56258731/68992025-37a78c80-0898-11ea-868a-46e6103b099f.JPG)
 
-•	Program 3 
+•	Program 1 
 1.	Masukkan variable untuk modal awal dengan value 100jt, x untuk di bulan pertama dan kedua dan z sebagai bulan keberapa pada perulangan.
 2.	Lalu membuat list sampai dengan 8 menggunakan format int,
 
